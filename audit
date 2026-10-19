@@ -10,3 +10,7 @@
 * **Семантические элементы HTML5:**
   Обнаружены теги: `<header>` (шапка), `<footer>` (подвал), `<main>` (основной контент), `<nav>` (навигация),
 а также множественные `<section>` и `<article>` (для карточек событий и статей).
+
+* **Верстка div-ами и семантические классы:**
+  Используется методология БЭМ. Примеры классов: `class="MainPage__content"`, `class="CategoriesMainMenu__item"`,
+`class="Header__cities"`, `class="AfishaSliderItem__type"`.
